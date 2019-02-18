@@ -1,7 +1,7 @@
 
 
 
-#Aula 05 -  Desafio em Grupo & Checkpoint #1
+# Aula 05 -  Desafio em Grupo & Checkpoint #1
 ______________________________
 
 Pós-aula
