@@ -4,12 +4,12 @@
 Aula 05 -  Desafio em Grupo & Checkpoint #1
 ______________________________
 
-Pós-aula
+PÃ³s-aula
 
 Podcast:
 https://hipsters.tech/primeiros-passos-em-data-science-do-excel-e-bi-ao-python-hipsters-134/
 
-Mais conteúdo
+Mais conteÃºdo
 https://towardsdatascience.com/python-basics-for-data-science-6a6c987f2755
 
 Livro
