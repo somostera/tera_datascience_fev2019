@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tera-sp",
+  "private_key_id": "f8f898afef9e08620b4f47f2787646302df7b2c0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDByoYHRy9mV60B\n4FAIruG+q8Y6mucatB7IcHpLSrbv7z18a2phla28B4GimKx6qg+b6v75SMTuPK5o\nhvSOY58TpwVVv8Csz3UF9YmL+Kss0U8qNkCHu5A7CY1G5gHtr3RUncP6yHhGFDTu\nTdvA7I7IFEJ1TsfmEXaqdffJlCQNbwfjwZOQ2Td+EN1VDAqRwcJXiyX/JfX2p66e\nvIWE9lNxyUTa+5C6DcEpE/pwDYKyLnMm7LREMEMxc08ioOgBI0KAoD8elE8i/ook\nu/Y5PYDIjCfdSwbhCYhq7+DIHnNo2BrCDXhOR/jFJFZ9qvsukIiw3JHMTJYP+zDZ\np4TVOqe7AgMBAAECggEAUOWYOaWPtetXv3bCMj2+4veWEpTjcJRMXWQGyTNxVovK\nYQv+JqpzEhEYHqYZKkOfrHjW431rKACQ1fWwVVhk6bFJWthnODyKH2i2eIXf/x+J\nKpfnLEIyHVMJdNVDbNNXfpM1YpUZEDgTOH+sAsc9e2xpqcqvS+1yWgpQ3AdJXYmI\nAguvqiEPRUbVumhN5b6XymQq47l2oHlUpc4fQVQllv82nhM1Sdm9IAWh6vh//FPb\nUK1TQeAYKgZC4Y5j7xvGqQh4Juqc9oy/h8A14Yo7f+sOB6uredScb8m3QGdOO/3C\n1DEH/gL6vqzsCtlbw4okw4NpaBfBnjGR2vxiIsKFgQKBgQDjtYabDaUByTmJjbC9\nq3Xr1MR+0hXNgCV1L5LWO2s0IwT6m9eKg6v+tZY2zYYa7u8E1gD61HAbFyH2xN+I\nCVuWzW4gNxYSBY+Vr7XdmO7I2ry+P3mRQguCDC46Zd9xxsn1C3kkl1d7ERrgfRgV\nMTJVEV9ITu98CiNOxIKK3EbzWwKBgQDZ3jVqSBiEeVO3GvlhsPkfbuuCXXAH4YoE\nl3ekBq5VwdFk3aNdqCiKDAKL4LbgOOP+YLXJ81Jk1M6ThoXnaWZ8n+iw/3WrIOX6\n++KdyNLymTbLMFITX3kvQh8QiHmr3p3QNKTLWUM9qhVzTzgWnwI79E2mNSHfOKlg\nWKWEnq8rIQKBgHhESgHe5QXad+80zOKAitmyGM46u5U8V4xbQhywaWCyFlEeumrI\nPLFcyyfKyUe0Zr2RIhdY2JUWVLP3K3C4MI2nlsChF6ERGtMeaNnPil6/WOzKrbSQ\nw28+a7QgVjHLoqMwGh2/aU7wq9dherTGtSTE9iREvKww1pElrSUWTsr9AoGAeOWM\nwIh3SnPFF7OZNTOuWloDyBivhUALhZbDpjqq3R2rY4x2Dg+1Rz144EP3Vx9arRrf\nZcxnKVrJsyWQAqUDYR6fUjDADBE6bXb+/s2k+Ug6FrCequ9s4OORN2x0EAJ9kj7U\nP58t5/cM5irMlgjwhXKA8D1FqYfYvYUTfC9ORuECgYB1YscxasIuW6AfyzPv6M0h\nc0ff+XZT793TOZvDuJlHZXAD7WqTl5lR5hpCZcUBrvN4O9/yam48L6yYBVCw74hp\ntVR5urfQPwBfmDlqiHT1N0LOsHdULHLmLJ15A26B7qqmhBFQNaZz8acRr6GDxJfp\nq6rdIokI8vsziX3PppAM4g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "teste-tera@tera-sp.iam.gserviceaccount.com",
+  "client_id": "113049869371755497491",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/teste-tera%40tera-sp.iam.gserviceaccount.com"
+}
